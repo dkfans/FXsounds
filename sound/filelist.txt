@@ -132,8 +132,8 @@ strikes/swonwal3.wav
 strikes/swonwod1.wav
 strikes/swonwod2.wav
 strikes/swonwod3.wav
-strikes/swonhrt3.wav
-strikes/swonhrt3.wav
+strikes/swonhrt1.wav
+strikes/swonhrt2.wav
 strikes/swonhrt3.wav
 strikes/fisthit.wav
 strikes/hitwall1.wav
@@ -943,8 +943,8 @@ new/spurint3.wav
 new/spurint4.wav
 new/stars.wav
 new/stars2.wav
-new/swonhrt1.wav
-new/swonhrt2.wav
+null.wav
+null.wav
 new/tabfall.wav
 new/torch.wav
 new/tunnel1.wav
