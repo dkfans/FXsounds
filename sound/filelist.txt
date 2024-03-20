@@ -159,7 +159,7 @@ traps/lgtnball.wav
 makebed.wav
 rooms/resdone.wav
 rooms/rescomp.wav
-null.wav	255
+thirdparty/cleanse.wav
 null.wav	255
 null.wav	255
 null.wav	255
